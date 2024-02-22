@@ -1,11 +1,11 @@
-# Página de Teste de Estagiário
+# Teste de Estagiário
 
-Esta página foi criada como parte de um projeto de teste de estágio e contém um formulário de boas-vindas e uma mensagem de agradecimento após o envio do formulário.
+Página criada como parte de um projeto de teste de estágio que contém um formulário de boas-vindas e uma mensagem de agradecimento após o envio do formulário.
 
 
 ## Visão Geral
 
-A Página de Teste de Estagiário é um projeto web simples que demonstra a criação de um formulário de boas-vindas em HTML, estilizado com CSS, e com interações JavaScript básicas. Após o envio do formulário, uma mensagem de agradecimento é exibida.
+A Página de Teste de Estagiário é um projeto web simples que demonstra a criação de um formulário de boas-vindas em HTML, estilizado com CSS, e com interações JavaScript. Após o envio do formulário, uma mensagem de agradecimento é exibida.
 
 ![alt text](assets/image.png)
 
@@ -23,6 +23,7 @@ A Página de Teste de Estagiário é um projeto web simples que demonstra a cria
 - **HTML5:**
 - **CSS3:**
 - **JavaScript:**
+
 
 ## Autor
 
